@@ -14,9 +14,10 @@
 ### ✨My Skills in webdesign and development
  
  <img align="left" alt="html5" title="html" width="45" hspace="5" src="./img/html5.svg">
- <img align="left" alt="html5" title="css3" width="45" hspace="5" src="./img/css3.svg"> 
- <img align="left" alt="html5" title="bootstrap" width="45" hspace="5" src="./img/bootstrap.svg">
- <img align="left" alt="html5" title="github" width="45" hspace="5" src="./img/github.svg">  
+ <img align="left" alt="css3" title="css3" width="45" hspace="5" src="./img/css3.svg"> 
+ <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./img/bootstrap.svg">
+ <img align="left" alt="github" title="github" width="45" hspace="5" src="./img/github.svg">  
+ <img align="left" alt="git" title="git" width="45" hspace="5" src="./img/git-alt-brands.svg">  
  <br/>
  <br/>
  
