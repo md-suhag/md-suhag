@@ -24,7 +24,7 @@
  ### ✨Other Skills
  
  <br/>
- <img align="left" alt="html5" title="python" width="45" hspace="5" src="./img/python.svg">
+ <img align="left" alt="python" title="python" width="45" hspace="5" src="./img/python.svg">
  <br/>
  <br/>
  
