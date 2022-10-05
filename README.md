@@ -17,7 +17,7 @@
  <img align="left" alt="css3" title="css3" width="45" hspace="5" src="./img/css3.svg"> 
  <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./img/bootstrap.svg">
  <img align="left" alt="github" title="github" width="45" hspace="5" src="./img/github.svg">  
- <img align="left" alt="git" title="git" width="45" hspace="5" src="./img/git-alt-brands.svg">  
+ <img align="left" alt="git" title="git" width="45" hspace="5" src="./img/git.svg">  
  <br/>
  <br/>
  
