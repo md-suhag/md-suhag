@@ -17,16 +17,15 @@
  <img align="left" alt="css3" title="css3" width="45" hspace="5" src="./img/css3.svg"> 
  <img align="left" alt="bootstrap" title="bootstrap" width="45" hspace="5" src="./img/bootstrap.svg">
  <img align="left" alt="github" title="github" width="45" hspace="5" src="./img/github.svg">  
- <img align="left" alt="git" title="git" width="45" hspace="5" src="./img/git.svg">  
- <br/>
+ <img align="" alt="git" title="git" width="45" hspace="5" src="./img/git.svg">  
  <br/>
  
  ### ✨Other Skills
  
  <br/>
- <img align="left" alt="python" title="python" width="45" hspace="5" src="./img/python.svg">
+ <img alt="python" title="python" width="45" hspace="5" src="./img/python.svg">
  <br/>
- <br/>
+ 
  
  <ul>
  <li>Adobe Photoshop</li>
