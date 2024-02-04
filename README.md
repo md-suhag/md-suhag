@@ -23,6 +23,7 @@
  <img align="left" alt="sass" title="sass" width="45" hspace="5" src="./img/sass.svg">
  <img align="left" alt="github" title="github" width="45" hspace="5" src="./img/github.svg">  
  <img align="" alt="git" title="git" width="45" hspace="5" src="./img/git.svg">  
+ <img align="" alt="git" title="php" width="45" hspace="5" src="./img/php.png">  
  <br/>
  
  ### ✨Other Skills
