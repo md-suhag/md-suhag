@@ -24,7 +24,8 @@
  <img align="left" alt="github" title="github" width="45" hspace="5" src="./img/github.svg">  
  <img align="left" alt="git" title="git" width="45" hspace="5" src="./img/git.svg">  
  <img align="left" alt="git" title="php" width="45" hspace="5" src="./img/php.png">  
- <img align="left" alt="git" title="figma" width="45" hspace="5" src="./img/figma.png">  
+ <img align="" alt="git" title="figma" width="45" hspace="5" src="./img/figma.png">  
+ <br/>
  <br/>
  
  ### ✨Other Skills
