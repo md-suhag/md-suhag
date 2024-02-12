@@ -1,6 +1,4 @@
-<!-- banner image starts here  -->
-<img src="./img/banner.jpg" width="100%">
-<!-- banner image ends here  -->
+
 
 <!-- Heading Start here-->
 # 👋 Hello! I'm Md Abdus Salam Suhag.
@@ -8,7 +6,7 @@
 ## Welcome to my github profile.❤️
 <!-- About me start here-->
 ### 👨‍🏫About Me
-<p> I am a web developer and student. I like to code with fun.🌱I use various technology and tool to create website like HTML, CSS, BOOTSTRAP, JAVASCRIPT ,REACT, JQUERY, GIT, GITHUB and more...😊</p>
+<p> I am a web developer. I like to code with fun.🌱I use various technology and tool to create website like HTML, CSS, BOOTSTRAP, JAVASCRIPT ,REACT, JQUERY, GIT, GITHUB, PHP and more...😊</p>
 <!-- About Me end here-->  
 
 ### ✨My Skills in webdesign and development
@@ -59,7 +57,7 @@
 
 <ul>
  <li>🇧🇩Bangla: Native</li>
- <li>🏴󠁧󠁢󠁥󠁮󠁧󠁿English: Intermediate</li>
+ <li>🏴󠁧󠁢󠁥󠁮󠁧󠁿English: Fluent</li>
  <li>🇮🇳Hindi: Basic</li>
 </ul>
 
