@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="img/github banner.gif" alt="Banner">
+</div>
+
 <h1 align="left">Hi 👋! I'm Md Abdus Salam Suhag</h1>
 <h2 align="left">Welcome! to my gihub profile.❤️</h2>
 
