@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/github banner.gif" alt="Banner">
+  <img src="img/github-banner.gif" alt="Banner">
 </div>
 
 <h2 align="left">Welcome! to my gihub profile.❤️</h2>
