@@ -16,6 +16,15 @@
   
 </div>
 
+## 📈 Current Stats : 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-suhag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&theme=dark" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=md-suhag&theme=dark" height="150" alt="streak graph"  />
+</div>
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-suhag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=dark" height="150" alt="languages graph"  />
+</div>
+
 <h2>✨Tools and technology that I use :</h3>
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="javascript"/>
@@ -77,16 +86,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel)
 <br>
 
-## 📈 Current Stats : 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-suhag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&theme=dark" height="150" alt="stats graph"  />
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=md-suhag&theme=dark" height="150" alt="streak graph"  />
-  </div>
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-suhag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=dark" height="150" alt="languages graph"  />
-</div>
+
 
 
   
