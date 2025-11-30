@@ -18,10 +18,10 @@
 
 ## 📈 Current Stats : 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-suhag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&theme=dark" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-fawn-xi-10.vercel.app/api?username=md-suhag&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&hide_border=false&theme=dark" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=md-suhag&theme=dark" height="150" alt="streak graph"  />
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-suhag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=dark" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats-fawn-xi-10.vercel.app/api/top-langs?username=md-suhag&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&theme=dark" height="150" alt="languages graph"  />
 </div>
 
 
