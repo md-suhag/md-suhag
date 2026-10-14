@@ -4,20 +4,8 @@
 
 <br>
 
-```ts
-const suhag = {
-  role: "Full Stack Developer",
-  stack: ["TypeScript", "Node.js", "Express", "React", "Next.js"],
-  databases: ["MongoDB", "PostgreSQL", "Redis", "Elasticsearch"],
-  infra: ["AWS", "Docker", "Terraform", "CI/CD"],
-  realtime: ["Socket.io", "BullMQ", "Agora"],
-  payments: ["Stripe Connect", "PayPal", "In-App Billing", "SSLCommerz"],
-  ai: ["OpenAI", "Gemini", "Agentic AI"],
-};
-```
-
 <p align="center">
-  <a href="https://mdsuhag.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-33d9b2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://mdsuhag.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0f766e?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMmExNC41IDE0LjUgMCAwIDAgMCAyMCAxNC41IDE0LjUgMCAwIDAgMC0yMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwIi8%2BPC9zdmc%2B" /></a>
   <a href="mailto:abdussalamsuhag104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14036?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/suhag102/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -46,7 +34,7 @@ A UK-focused leads marketplace connecting homeowners with local trade profession
 
 `TypeScript` `Node.js` `Express` `MongoDB` `Mongoose` `Redis` `Stripe` `Socket.io` `Next.js` `Twilio`
 
-<a href="https://www.tradelinknetwork.co.uk/"><img src="https://img.shields.io/badge/Live_Site-33d9b2?style=flat-square" /></a> <a href="https://mdsuhag.vercel.app/projects/trade-link-network"><img src="https://img.shields.io/badge/Case_Study-33d9b2?style=flat-square" /></a>
+<a href="https://www.tradelinknetwork.co.uk/"><img src="https://img.shields.io/badge/Live_Site-0f766e?style=flat-square" /></a> <a href="https://mdsuhag.vercel.app/projects/trade-link-network"><img src="https://img.shields.io/badge/Case_Study-0f766e?style=flat-square" /></a>
 
 ---
 
@@ -56,7 +44,7 @@ A cross-platform mobile marketplace connecting customers with verified professio
 
 `TypeScript` `Node.js` `Express` `MongoDB` `Socket.io` `Stripe Connect` `In-App Purchases` `Redis`
 
-<a href="https://apps.apple.com/us/app/ways2shop/id6756764605"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.troyajaga.waystooshop"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a> <a href="https://mdsuhag.vercel.app/projects/ways2shop"><img src="https://img.shields.io/badge/Case_Study-33d9b2?style=flat-square" /></a>
+<a href="https://apps.apple.com/us/app/ways2shop/id6756764605"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" /></a> <a href="https://play.google.com/store/apps/details?id=com.troyajaga.waystooshop"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" /></a> <a href="https://mdsuhag.vercel.app/projects/ways2shop"><img src="https://img.shields.io/badge/Case_Study-0f766e?style=flat-square" /></a>
 
 ---
 
@@ -66,7 +54,7 @@ A comprehensive multi-vendor platform digitizing retail, hospitality, and servic
 
 `TypeScript` `Node.js` `Express` `MongoDB` `Redis` `BullMQ` `Socket.io` `Hubtel Gateway` `Cloudflare R2` `AWS`
 
-<a href="https://business.gcomapp.com"><img src="https://img.shields.io/badge/Live_Dashboard-33d9b2?style=flat-square" /></a> <a href="https://youtu.be/23zNKXW6Kgk"><img src="https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a> <a href="https://mdsuhag.vercel.app/projects/gcom"><img src="https://img.shields.io/badge/Case_Study-33d9b2?style=flat-square" /></a>
+<a href="https://business.gcomapp.com"><img src="https://img.shields.io/badge/Live_Dashboard-0f766e?style=flat-square" /></a> <a href="https://youtu.be/23zNKXW6Kgk"><img src="https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a> <a href="https://mdsuhag.vercel.app/projects/gcom"><img src="https://img.shields.io/badge/Case_Study-0f766e?style=flat-square" /></a>
 
 ---
 
@@ -76,7 +64,7 @@ Full-stack eCommerce platform with role-based admin/customer dashboards, SSLComm
 
 `React` `Redux` `Express` `MongoDB` `Shadcn UI` `SSLCommerz`
 
-<a href="https://tech-space-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Store-33d9b2?style=flat-square" /></a> <a href="https://github.com/md-suhag/tech-space"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" /></a>
+<a href="https://tech-space-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Store-0f766e?style=flat-square" /></a> <a href="https://github.com/md-suhag/tech-space"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github" /></a>
 
 ---
 
@@ -126,7 +114,7 @@ Full-stack eCommerce platform with role-based admin/customer dashboards, SSLComm
       <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" />
       <img src="https://img.shields.io/badge/In--App_Billing-34A853?style=flat-square&logo=google-play&logoColor=white" />
       <img src="https://img.shields.io/badge/Hubtel-00A859?style=flat-square" />
-      <img src="https://img.shields.io/badge/SSLCommerz-2B9348?style=flat-square" />
+      <img src="https://img.shields.io/badge/SSLCommerz-295CAB?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -179,5 +167,5 @@ Full-stack eCommerce platform with role-based admin/customer dashboards, SSLComm
 </p>
 
 <!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-suhag&color=33d9b2&style=flat-square&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=md-suhag&color=0f766e&style=flat-square&label=views" />
 </p> -->
